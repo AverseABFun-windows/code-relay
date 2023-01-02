@@ -141,8 +141,8 @@ const output: FileGenerator = {
                 </li>
                 <li>
                   Have any questions? Checkout out the{" "}
-                  <a href={faqLink}>Frequently Asked Questions</a> or send Mike
-                  an email at <a href={questionMailHref}>mike@coderelay.io</a>
+                  <a href={faqLink}>Frequently Asked Questions</a> or send me
+                  an email at <a href={questionMailHref}>arthurebeck@gmail.com</a>
                 </li>
               </ul>
             </p>
