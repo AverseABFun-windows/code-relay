@@ -1,5 +1,7 @@
 # coderelay.io
 
+NOTE: THIS IS A TEMPORARY REPO FOR WHILE THE REAL ONE IS IN INDEFINITE HIATUS
+
 This is the source for the code-relay website.
 
 ---
