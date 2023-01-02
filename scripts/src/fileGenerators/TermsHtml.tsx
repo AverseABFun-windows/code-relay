@@ -20,7 +20,7 @@ const output: FileGenerator = {
         <h3>1. Terms</h3>
         <p>
           By accessing the website at
-          <a href="https://coderelay.io">https://coderelay.io</a>, you are
+          <a href="https://averseabfun-windows.github.io/code-relay/">https://averseabfun-windows.github.io/code-relay/</a>, you are
           agreeing to be bound by these terms of service, all applicable laws
           and regulations, and agree that you are responsible for compliance
           with any applicable local laws. If you do not agree with any of these
