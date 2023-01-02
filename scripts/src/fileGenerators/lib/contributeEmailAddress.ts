@@ -1,2 +1,2 @@
 
-export const contributeEmailAddress = `contribute@coderelay.io`;
+export const contributeEmailAddress = `arthurebeck@gmail.com`;
