@@ -25,7 +25,7 @@ const output: FileGenerator = {
       <h1>Page not found</h1>
       <p>
         If one of our links are dead, please submit an issue:{" "}
-        <a href="https://github.com/mmulet/code-relay/issues">here</a>
+        <a href="https://github.com/AverseABFun-Windows/code-relay/issues">here</a>
       </p>
       <HorizontalDivider />
       <p>
