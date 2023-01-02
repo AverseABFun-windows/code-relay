@@ -61,19 +61,13 @@ const output: FileGenerator = {
         <ol>
           <li>
             Create a task like: fix this bug, or write documentation for this
-            part. Checkout{" "}
-            <a href="https://github.com/mmulet/code-relay/wiki/Task-examples">
-              the wiki
-            </a>{" "}
-            for some real examples or send email us at{" "}
-            <a href="mailto:maintainer@coderelay.io">maintainer@coderelay.io</a>{" "}
-            and we'll help you get started.
+            part. You can send me an email at{" "}
+            <a href="mailto:arthurebeck@gmail.com">arthurebeck@gmail.com</a>{" "}
+            and I'll help you get started.
           </li>
           <li>
-            Email your task description to{" "}
-            <a href="mailto:newTask@coderelay.io">newTask@coderelay.io</a> or{" "}
-            <a href="https://github.com/mmulet/code-relay/issues">
-              open an issue code-relay repo with the title: NewTask
+            <a href="https://github.com/AverseABFun-Windows/code-relay/issues">
+              Open an issue code-relay repo with the title: NewTask
             </a>
             . You will get a reply once your task has been processed and is in
             the system.
@@ -134,9 +128,9 @@ const output: FileGenerator = {
         <HorizontalDivider />
         <h2>Don't know where to start?</h2>
         <p>
-          Send us an email at{" "}
-          <a href="mailto:maintainer@coderelay.io">maintainer@coderelay.io</a>,
-          and we'll help you set everything up.
+          Send me an email at{" "}
+          <a href="mailto:arthurebeck@gmail.com">arthurebeck@gmail.com</a>,
+          and I'll help you set everything up.
         </p>
         <HorizontalDivider />
         <div>
@@ -144,7 +138,7 @@ const output: FileGenerator = {
         </div>
         <div>
           Questions concerns:
-          <a href="mailto:maintainerQA@coderelay.io">mail me</a>
+          <a href="mailto:arthurebeck@gmail.com">mail me</a>
         </div>
       </Page>
     );
